@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Title : Welcome everyone!
 
 We will make a movie script.
 
 And then he lives.
+=======
+We will made a movie script.
+>>>>>>> origin/master
